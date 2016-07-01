@@ -33,7 +33,7 @@ def print_hoge():
         hoge = randint(0,50)
         if (hoge == 25):
             print(hoge,"が出ました！")
-            break;
+            break
         else:
             print("ほげほげ\n")
 
